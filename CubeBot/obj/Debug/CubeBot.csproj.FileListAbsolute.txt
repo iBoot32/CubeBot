@@ -1,0 +1,7 @@
+C:\Users\Tom O'Donnell\source\repos\CubeBot\CubeBot\bin\Debug\CubeBot.exe.config
+C:\Users\Tom O'Donnell\source\repos\CubeBot\CubeBot\bin\Debug\CubeBot.exe
+C:\Users\Tom O'Donnell\source\repos\CubeBot\CubeBot\bin\Debug\CubeBot.pdb
+C:\Users\Tom O'Donnell\source\repos\CubeBot\CubeBot\obj\Debug\CubeBot.csprojAssemblyReference.cache
+C:\Users\Tom O'Donnell\source\repos\CubeBot\CubeBot\obj\Debug\CubeBot.csproj.CoreCompileInputs.cache
+C:\Users\Tom O'Donnell\source\repos\CubeBot\CubeBot\obj\Debug\CubeBot.exe
+C:\Users\Tom O'Donnell\source\repos\CubeBot\CubeBot\obj\Debug\CubeBot.pdb
